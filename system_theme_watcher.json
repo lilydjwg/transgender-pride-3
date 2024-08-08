@@ -1,0 +1,7 @@
+{
+  "name": "system_theme_watcher",
+  "description": "Watch system theme changes",
+  "path": "/usr/bin/system_theme_watcher",
+  "type": "stdio",
+  "allowed_extensions": ["transgender-pride-3@lilydjwg.me"]
+}

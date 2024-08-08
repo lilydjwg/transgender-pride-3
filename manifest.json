@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Transgender Pride 3",
+  "description": "Transgender Pride that changes itself based on system theme kind.",
+  "version": "1.0",
+  "author": "lilydjwg",
+  "applications": {
+    "gecko": {
+      "id": "transgender-pride-3@lilydjwg.me",
+      "strict_min_version": "87.0"
+    }
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": ["theme", "nativeMessaging"]
+}
