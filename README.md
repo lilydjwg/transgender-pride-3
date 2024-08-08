@@ -12,4 +12,4 @@ Install
 
 * Put the file `system_theme_watcher.json` in `/usr/lib/mozilla/native-messaging-hosts`
 * Put the file `system_theme_watcher` in `/usr/bin` (if you want it elsewhere, change the path inside above json file accordingly)
-* Install the extension (coming soon)
+* Install [the webextension](https://addons.mozilla.org/firefox/addon/transgender-pride-3/)
