@@ -1,3 +1,8 @@
+> [!NOTE]
+> [Transgender Pride 2 theme](https://addons.mozilla.org/firefox/addon/transgender-pride-2/) now has dark theme support. Please use that.
+>
+> This repo thus has been archived.
+
 This is the [Transgender Pride 2 theme](https://addons.mozilla.org/firefox/addon/transgender-pride-2/) with dark theme support.
 
 Dependency
